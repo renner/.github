@@ -34,7 +34,8 @@ SUSE offers Linux, container management, and edge computing solutions.
 |Repository|Description|
 |--|--|
 |[susemanager-ci](https://github.com/SUSE/susemanager-ci)|CI infrastructure for SUSE Multi-Linux Manager|
-
+|[salt-netapi-client](https://github.com/SUSE/salt-netapi-client)|Java bindings for the Salt API|
+|[salt-formulas](https://github.com/SUSE/salt-formulas)|Salt Formulas for SUSE Enterprise Linux and openSUSE Linux|
 
 ## SUSE Customer Center
 
